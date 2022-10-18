@@ -1,5 +1,5 @@
 # code-cut-create
-Files for the 1.5h Creative Computing Club, 'Code Cut Create'
+Files for the 1.5h Creative Computing Club, 'Code Cut Create' (Dec 2019) & 'Code Cut Create' (Dec 2022)
 
 Visit here for the instructions: <https://scienceoxford.github.io/code-cut-create>
 
